@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "de579d90476e1f96",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b6347689b38fa3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fd498dd6d288d03",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e0a2f30116890553",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Start.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Start"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a76ae4f8c1d09067",
+    "type": "split",
+    "children": [
+      {
+        "id": "b11ae8597c6bcf10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "69d95cd1f9793263",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c8a09541199ec8a4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "onio",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "20b5e7807d57b217",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 218.5
+  },
+  "right": {
+    "id": "c41e992ff6727f76",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd78f3cb1d5e574b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce60dc472a21a9ad",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "08b4055f8ce37847",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "c525aafedb56c87a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "971a60153335aabb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "2879636dd000f191",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3fd498dd6d288d03",
+  "lastOpenFiles": [
+    "Start.md",
+    "KISS.md",
+    "Windows.md",
+    "Sorting Algorithms.md",
+    "Design Principles.md",
+    "Cancellation Tokens.md",
+    "Algorithms.md",
+    "OOP.md",
+    "Interview Questions.md",
+    "Factory Pattern.md",
+    "Agile.md",
+    "Singleton Pattern.md",
+    "Message Broker and Event Bus.md",
+    "Data Structures.md",
+    "Pointers.md",
+    "C Sharp.md",
+    "CS_Notes Files/C 7.0 in a Nutshell_ The Definitive Reference ( PDFDrive )_2.pdf",
+    "C 7.0 in a Nutshell_ The Definitive Reference ( PDFDrive )_2 1.pdf",
+    "CS_Notes Files/C# 7.0 in a Nutshell_ The Definitive Reference ( PDFDrive )_2.pdf",
+    "SQL Server.md",
+    "CQRS.md",
+    "Untitled.base",
+    "Compare Strings.md",
+    "Access DB.md",
+    "Call Stack.md",
+    "Benchmark.md",
+    "SOLID.md",
+    "CS_Notes Files/15 Sorting Algorithms in 6 Minutes.mp4",
+    "Elastic Search.md",
+    "AVL Tree.md",
+    "Binary Search Tree.md",
+    "CS_Notes Files/bst1.webp",
+    "CS_Notes Files/bst2.webp",
+    "CS_Notes Files/memory_allocation.webp",
+    "CS_Notes Files/PriorityQueue-Hierarchy.webp",
+    "CS_Notes Files/CSharp-Queue.webp",
+    "CS_Notes Files/Stack-diagram.webp",
+    "CS_Notes Files/CSharp-Stack-Hierarchy.webp",
+    "CS_Notes Files",
+    "New folder",
+    "Hard Delete",
+    "Untitled"
+  ]
+}

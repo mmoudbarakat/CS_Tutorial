@@ -1,0 +1,2 @@
+- When writing EF core / LINQ text, make sure that generated query in SQL Server is optimized.
+- 

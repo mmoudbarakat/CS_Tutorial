@@ -1,0 +1,5 @@
+- [[Onion]]
+- [[CQRS]]
+- [[Vertical Slicing]]
+- [[Singleton Pattern]]
+- [[Factory Pattern]]

@@ -1,0 +1,9 @@
+- [[Binary Search]] — find an element in a sorted array in O(log⁡n)O(\log n)O(logn).
+- **[[Merge Sort]]** — sort a list by recursively splitting and merging.
+- **[[Dijkstra's Algorithm]]** — find the shortest path in a weighted graph.
+- **[[Breadth-First Search (BFS)]]** — traverse a graph level by level.
+- **[[Depth-First Search (DFS)]]** — traverse a graph by exploring as deep as possible first.
+- **[[Quick Sort]]** — sort by partitioning around a pivot.
+- **[[Kruskal's Algorithm]]** — find a minimum spanning tree in a graph.
+- **[[Memoization]]** → Optimization technique commonly used in Dynamic Programming
+- 

@@ -1,0 +1,7 @@
+- [[Agile]]
+- [[Work with Jira]]
+- [[LinkedIn Profile]]
+- [[Freelancing Tips]]
+- [[CV Writing and comments]]
+- [[Interview Questions]]
+- [[MOC Interview]]

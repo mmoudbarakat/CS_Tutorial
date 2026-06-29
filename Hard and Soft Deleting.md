@@ -1,0 +1,2 @@
+- **Hard Delete**: Permanently removes data from the database. It cannot be recovered. Improves storage efficiency but risks accidental data loss.
+- **Soft Delete**: Marks data as deleted (ex: `is_deleted = true`) without removing it. Allows recovery but may require additional queries and indexing.

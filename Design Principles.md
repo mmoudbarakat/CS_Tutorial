@@ -1,0 +1,13 @@
+- [[SOLID]]
+- [[OOP]]
+- [[DRY]]
+- [[KISS]]
+- [[YAGNI]]
+- [[Test Driven Design]]
+- [[Domain Driven Design]]
+- [[Event Driven Design]]
+- [[Clean Code Principles]]
+- [[Sorting Algorithms]]
+- [[Elastic Search]]
+- [[Call Stack]]
+- 
