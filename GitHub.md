@@ -228,3 +228,77 @@ GitHub is designed to enable collaboration among developers and teams, with vari
         
 
 ---
+# Syncing an Existing Obsidian Vault with GitHub
+
+## Prerequisites
+
+- A GitHub repository has already been created online.
+    
+- Git is installed on the local machine.
+    
+
+## Initial Setup (one-time)
+
+1. Open **File Explorer** and navigate to the **vault root** (the folder containing the notes and the `.obsidian` folder).
+    
+2. Open a terminal in that folder:
+    
+    - Click the address bar, type `cmd`, and press Enter.
+        
+    - Or right-click → **Open in Terminal**.
+        
+
+Run the following commands:
+
+```bash
+git init
+git add .
+git commit -m "Initial commit"
+
+git remote add origin https://github.com/<username>/<repo>.git
+# alternatively, using SSH:
+# git remote add origin git@github.com:<username>/<repo>.git
+
+git branch -M main
+git push -u origin main
+```
+
+## Daily Workflow
+
+Whenever notes are modified:
+
+```bash
+git add .
+git commit -m "Describe what changed"
+git push
+```
+
+## Recommended `.gitignore`
+
+Create a `.gitignore` file in the vault root:
+
+```gitignore
+.obsidian/workspace.json
+.obsidian/cache/
+.trash/
+
+# OS files
+.DS_Store
+Thumbs.db
+```
+
+This avoids committing machine-specific files.
+
+## Optional: Automate with Obsidian Git
+
+The **Obsidian Git** plugin can automatically commit and push changes periodically.
+
+## Mnemonic
+
+Git is like a diary with snapshots:
+
+- `git add` → mark pages to save
+    
+- `git commit` → take a snapshot
+    
+- `git push` → upload snapshots to GitHub
